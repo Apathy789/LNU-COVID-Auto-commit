@@ -22,4 +22,4 @@
 
 + 首先下载文件![](http://q7nlxgqi3.bkt.clouddn.com/GithubClone.png)
 + 到本地压缩之后创建一个同名txt文件，然后改成bat文件，即`辽大打卡.bat`，不需要写入东西
-+ 之后的操作详见[我的博客]([https://jessytsui.cn/2020/03/27/python%E6%AF%8F%E6%97%A5%E8%87%AA%E5%8A%A8%E5%A1%AB%E6%8A%A5/](https://jessytsui.cn/2020/03/27/python每日自动填报/))
++ 之后的操作详见[我的博客]([https://jessytsui.cn/2020/03/27/python%E6%AF%8F%E6%97%A5%E8%87%AA%E5%8A%A8%E5%A1%AB%E6%8A%A5/](https://jessytsui.cn/2020/03/27/python每日自动填报/))https://jessytsui.cn/2020/03/27/python%E6%AF%8F%E6%97%A5%E8%87%AA%E5%8A%A8%E5%A1%AB%E6%8A%A5/
