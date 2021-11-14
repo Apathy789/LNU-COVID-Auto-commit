@@ -29,6 +29,26 @@
 
 
 ### **日志**
+---
+2021/11/14更新：
+验证码搞了一下当图像处理大作业了，顺便版本更新了一下，之前的博客也不用了
+
+放在服务器上，后台运行selenium的话，需要加上这些参数：
+
+```
+from selenium.webdriver.chrome.options import Options
+chrome_options = Options()
+chrome_options.add_argument('--no-sandbox')
+chrome_options.add_argument('--disable-dev-shm-usage')
+chrome_options.add_argument('--headless')
+browser = webdriver.Chrome(chrome_options=chrome_options)
+```
+
+部署过程看这个：
+
+https://blog.csdn.net/weixin_44128602/article/details/113621036
+
+
 
 ---
 
