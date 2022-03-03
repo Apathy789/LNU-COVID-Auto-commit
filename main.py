@@ -9,7 +9,6 @@ import sys
 import os
 import time
 import config
-import Image
 from config import stuIDs, pwds
 from selenium import webdriver
 from selenium.webdriver import ActionChains
